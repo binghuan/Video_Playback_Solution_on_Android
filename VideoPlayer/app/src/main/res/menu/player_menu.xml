@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:icon="@drawable/menu_button_share"
+        android:title="Text to be seen by user"
+        app:showAsAction="always"
+        android:orderInCategory="2"/>
+
+    <item
+        android:icon="@drawable/menu_button_bookmark"
+        android:title="Text to be seen by user"
+        app:showAsAction="always"
+        android:orderInCategory="1"/>
+
+    <item
+        android:icon="@drawable/menu_button_comment"
+        android:title="Text to be seen by user"
+        app:showAsAction="always"
+        android:orderInCategory="0"/>
+
+</menu>
