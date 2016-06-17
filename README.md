@@ -7,4 +7,4 @@
 <img src="./res/pagemapping.jpg" width="100%" height="auto"/>
 
 <h2>Demo</h2>
-<a href="./res/screenrecord.mp4"><img src="./res/preview.png" width="480px" height="640px"/></a>
+<a href="https://youtu.be/_EFKxrAjipg"><img src="./res/preview.png" width="100%" height="auto"/></a>
